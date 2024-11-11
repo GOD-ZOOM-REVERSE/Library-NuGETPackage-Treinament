@@ -9,7 +9,7 @@
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Copyright>Copyright © Mauricio Training - Consultoria e Treinamentos em TI LTDA 2024</Copyright>
 		<Description>Criação somente para aprendizado à criação de Pacotes NuGet</Description>
-		<Version>8.0.204.1</Version>
+		<Version>8.0.204.2</Version>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageIcon></PackageIcon>
 		<PackageTags>Treinamento</PackageTags>
