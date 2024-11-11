@@ -11,7 +11,7 @@
 		<Description>Criação somente para aprendizado à criação de Pacotes NuGet</Description>
 		<Version>8.0.204.1</Version>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<PackageIcon>erudio-hateoas-128x128.png</PackageIcon>
+		<PackageIcon></PackageIcon>
 		<PackageTags>Treinamento</PackageTags>
 	</PropertyGroup>
 
