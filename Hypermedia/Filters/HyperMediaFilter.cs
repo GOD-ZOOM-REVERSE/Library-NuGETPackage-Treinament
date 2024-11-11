@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1.Hypermedia.Filters
+namespace TreinamentoPushNuGet.Hypermedia.Filters
 {
     public class HyperMediaFilter : ResultFilterAttribute
     {

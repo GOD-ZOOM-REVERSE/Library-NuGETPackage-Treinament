@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.Routing;
-using ClassLibrary1.Hypermedia.Abstract;
-using ClassLibrary1.Hypermedia.Utils;
+using TreinamentoPushNuGet.Hypermedia.Abstract;
+using TreinamentoPushNuGet.Hypermedia.Utils;
 using System.Collections.Concurrent;
 
-namespace ClassLibrary1.Hypermedia
+namespace TreinamentoPushNuGet.Hypermedia
 {
     public abstract class ContentResponseEnricher<T> : IResponseEnricher where T : ISupportsHyperMedia
     {

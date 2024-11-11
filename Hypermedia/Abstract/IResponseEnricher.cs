@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1.Hypermedia.Abstract
+namespace TreinamentoPushNuGet.Hypermedia.Abstract
 {
     public interface IResponseEnricher
     {

@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageProjectUrl>https://github.com/GOD-ZOOM-REVERSE/Library-NuGETPackage-Treinament.git</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/GOD-ZOOM-REVERSE/Library-NuGETPackage-Treinament.git</RepositoryUrl>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Copyright>Copyright © Mauricio Training - Consultoria e Treinamentos em TI LTDA 2024</Copyright>
+		<Description>Criação somente para aprendizado à criação de Pacotes NuGet</Description>
+		<Version>8.0.204.1</Version>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageIcon>erudio-hateoas-128x128.png</PackageIcon>
+		<PackageTags>Treinamento</PackageTags>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App"></FrameworkReference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="README.md">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="icons\erudio-hateoas-128x128.png">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
+
+</Project>

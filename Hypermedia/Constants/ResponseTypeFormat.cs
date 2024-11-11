@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary1.Hypermedia.Constants
+﻿namespace TreinamentoPushNuGet.Hypermedia.Constants
 {
     public sealed class ResponseTypeFormat
     {

@@ -1,7 +1,7 @@
-﻿using ClassLibrary1.Hypermedia.Abstract;
+﻿using TreinamentoPushNuGet.Hypermedia.Abstract;
 using System.Collections.Generic;
 
-namespace ClassLibrary1.Hypermedia.Filters
+namespace TreinamentoPushNuGet.Hypermedia.Filters
 {
     public class HyperMediaFilterOptions
     {

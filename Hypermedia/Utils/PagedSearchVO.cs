@@ -1,10 +1,10 @@
-﻿using ClassLibrary1.Hypermedia.Abstract;
+﻿using TreinamentoPushNuGet.Hypermedia.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1.Hypermedia.Utils
+namespace TreinamentoPushNuGet.Hypermedia.Utils
 {
     public class PagedSearchVO<T> where T : ISupportsHyperMedia
     {
